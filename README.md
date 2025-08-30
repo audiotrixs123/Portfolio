@@ -31,9 +31,9 @@ _For the full list of projects, please visit the [Projects Section](./projects.m
 
 ## Contact
 
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
-- **GitHub:** [Your GitHub](https://github.com/yourprofile)
+- **Email:** audiotrixs@gmail.com
+- **LinkedIn:** (https://www.linkedin.com/in/audiotrixs-mohit)
+- **GitHub:** (https://github.com/audiotrixs123)
 
 ---
 
